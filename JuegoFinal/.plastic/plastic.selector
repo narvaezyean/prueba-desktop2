@@ -1,4 +1,0 @@
-repository "JuegoFinal@villalbaluis@cloud"
-  path "/"
-    br "/main"
-    co "/main"
